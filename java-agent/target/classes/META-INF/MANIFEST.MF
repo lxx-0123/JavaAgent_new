@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: com.example.agent.ApiAgent
+Agent-Class: com.example.agent.ApiAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
